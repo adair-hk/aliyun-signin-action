@@ -8,7 +8,7 @@
 项目用于自动实现阿里云盘的每日签到活动.  
 **支持 GitHub Action , 无需服务器即可实现每日自动签到.**
 
-作者开发不易，如果此项目能帮助到你, 欢迎给[ImYrS](https://github.com/ImYrS/aliyun-auto-signin)一个Star :star: 就是对作者最大的尊重
+作者开发不易，如果此项目能帮助到你, 欢迎给[ImYrS秋酿](https://github.com/ImYrS/aliyun-auto-signin)一个Star :star: 就是对作者最大的尊重
 
 ----
 
