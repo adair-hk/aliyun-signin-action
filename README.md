@@ -12,8 +12,7 @@
 
 ----
 
-### [🔥推荐使用 Action 签到🔥](https://github.com/ImYrS/aliyun-auto-signin/blob/main/How-To-Use-Action.md)
-
+### [🔥推荐使用 Action 签到🔥](https://github.com/adair-hk/aliyun-signin-action/blob/main/How-To-Use-Action.md)
 0 成本 | 自动更新 | 支持推送 | 无需维护
 </div>
 
