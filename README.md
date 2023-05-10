@@ -8,7 +8,7 @@
 项目用于自动实现阿里云盘的每日签到活动.  
 **支持 GitHub Action , 无需服务器即可实现每日自动签到.**
 
-如果此项目能帮助到你, 欢迎给(https://github.com/ImYrS/aliyun-auto-signin)一个 Star :star: 这是我持续维护的动力
+作者开发不易，如果此项目能帮助到你, 欢迎给[ImYrS](https://github.com/ImYrS/aliyun-auto-signin)Star :star: 就是最大的尊重
 
 ----
 
@@ -162,23 +162,3 @@
 - 欢迎 PR 更多推送渠道
 
 </details>
-
-## 其他
-
-### 此项目
-
-- 欢迎在 [Issues](https://github.com/ImYrS/aliyun-auto-signin/issues) 中反馈 Bug
-- 你的 Star :star: 是我维护的动力
-- PRs are welcome
-- Telegram 交流群: [@aliyun_auto_signin](https://t.me/aliyun_auto_signin)
-
-### 贡献者
-
-<a href="https://github.com/ImYrS/aliyun-auto-signin/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ImYrS/aliyun-auto-signin"  alt=""/>
-</a>
-
-### Special Sponsors
-
-| <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="80" height="80" alt=""/> | [Jetbrains](https://www.jetbrains.com/): Essential tools for software developers and teams |
-|:---------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
